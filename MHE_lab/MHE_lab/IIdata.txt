@@ -1,0 +1,12 @@
+Size: 0
+Brute Score: 0 | Brute Time: 0.0019726
+Climb Score: 0 | Climb Time: 0.0100382
+Tabu Score: 0 | Tabu Time: 0.0039744
+Size: 0
+Brute Score: 0 | Brute Time: 0.0020815
+Climb Score: 0 | Climb Time: 0.009267
+Tabu Score: 0 | Tabu Time: 0.0024118
+Size: 0
+Brute Score: 0 | Brute Time: 0.0018814
+Climb Score: 0 | Climb Time: 0.0082644
+Tabu Score: 0 | Tabu Time: 0.0027683

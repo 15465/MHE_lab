@@ -1,0 +1,4 @@
+Size: 4
+Brute Score: 355 | Brute Time: 0.0201113
+Climb Score: 358 | Climb Time: 0.0381504
+Tabu Score: 358 | Tabu Time: 0.012144

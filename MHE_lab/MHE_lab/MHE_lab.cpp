@@ -247,47 +247,178 @@ list<solution> nearby_list(solution object) {
 
 	list<solution> nearbysolutions;
 
-	for (int i = 0; i < object.size; i++) {
-		for (int j = i + 1; j < object.size; j++) {
-			swap_s(object, i, j);
+	for (int i = 0; i < object.size-1; i++) {
+			swap_s(object, i, i+1);
 			nearbysolutions.push_front(object);
-			swap_s(object, i, j);
-		}
+			swap_s(object, i, i+1);
 	}
 	return nearbysolutions;
 }
 
 
-
+// lab 5 climb algoryth
 solution climb_a(solution object, int repeats) {
 	solution best_solution = object;
 	int best = evaluate(object);
 	int current;
 	for (int i = 0; i < repeats; i++) {
 		list<solution> nearbysolutions = nearby_list(object);
-		for (int j = 0; j < nearbysolutions.size(); i++) {
-			current = evaluate(nearbysolutions.back());
+		for (solution &x : nearbysolutions){//int j = 0; j < nearbysolutions.size(); j++) {
+			current = evaluate(x);
 			if (best > current) {
 				best = current;
-				best_solution = nearbysolutions.back();
+				best_solution = x;
 			}
-			nearbysolutions.pop_back();
 		}
 	}
 	return best_solution;
 }
-
-solution tabu(solution object) {
-	solution bestCandidate = object;
-	list<solution> tabuList;
-	for (int i = 0; i < 100; i++) {
-		list<solution> sNeighborhood = nearby_list(object);
-		for (i = 0; i < sNeighborhood.size(); i++) {
-			if (/*!tabulist contains neighboor && */ evaluate(bestCandidate))
+//-----lab 6 tabu algorytm-----
+bool tabucontains(solution object, list<solution> container) {
+	bool contains = false;
+	for (solution &x : container) {
+		if (x.locations == object.locations) {
+			contains = true;
+			break;
 		}
 	}
+	return contains;
 }
 
+solution tabu(solution object) {
+	solution sBest = object;
+	int sBestEv = evaluate(sBest);
+	solution bestCandidate = object;
+	int bestCandidateEv = evaluate(bestCandidate);
+	list<solution> tabuList;
+	tabuList.push_back(object);
+	for (int i = 0; i < object.size * 10; i++) {
+		list<solution> sNeighborhood = nearby_list(object);
+		
+		for (solution &x : sNeighborhood) {
+			int xev = evaluate(x);
+			if (!tabucontains(x, tabuList) &&  xev < bestCandidateEv) {
+				bestCandidate = x;
+				bestCandidateEv = xev;
+			}
+				
+		}
+		if (bestCandidateEv < sBestEv) {
+			sBest = bestCandidate;
+			sBestEv = bestCandidateEv;
+		}
+			
+		tabuList.push_back(bestCandidate);
+		if (tabuList.size() > 10)
+			tabuList.pop_front();
+	}
+	return sBest;
+}
+//-----lab 7 eksperyment-----
+class experimentData {
+public:
+	double bruteTime;
+	double bruteScore;
+	double climbTime;
+	double climbScore;
+	double tabuTime;
+	double tabuScore;
+	int size;
+
+	experimentData() {
+		this->bruteScore = 0;
+		this->bruteTime = 0;
+		this->climbScore = 0;
+		this->climbTime = 0;
+		this->tabuScore = 0;
+		this->tabuTime = 0;
+		this->size = 0;
+	}
+};
+
+experimentData experimentPart(string file) {
+	solution object(1);
+	solution temp(1);
+	load_solution_fromfile(object, file);
+	experimentData data;
+	data.size = object.size;
+
+	auto start = std::chrono::high_resolution_clock::now();
+	temp = brute_force(object);
+	auto end = std::chrono::high_resolution_clock::now();
+	std::chrono::duration<double> diff = end - start;
+	data.bruteTime = diff.count();
+	data.bruteScore = evaluate(temp);
+
+	start = std::chrono::high_resolution_clock::now();
+	temp = climb_a(object, 10);
+	end = std::chrono::high_resolution_clock::now();
+	diff = end - start;
+	data.climbTime = diff.count();
+	data.climbScore = evaluate(temp);
+
+	start = std::chrono::high_resolution_clock::now();
+	temp = tabu(object);
+	end = std::chrono::high_resolution_clock::now();
+	diff = end - start;
+	data.tabuTime = diff.count();
+	data.tabuScore = evaluate(temp);
+	
+	return data;
+}
+
+experimentData eksperymentBigPart(string file) { 
+	experimentData data[1];
+	int repeats = 1;
+	experimentData averagedata;
+	
+	for (int i = 0; i < repeats; i++) {
+		data[i] = experimentPart(file);
+	}
+	averagedata.size = data[0].size;
+	for (int i = 0; i < repeats; i++) {
+		averagedata.bruteScore += data[i].bruteScore;
+		averagedata.bruteTime = data[i].bruteTime;
+		averagedata.climbScore = data[i].climbScore;
+		averagedata.climbTime = data[i].climbTime;
+		averagedata.tabuScore = data[i].tabuScore;
+		averagedata.tabuTime = data[i].tabuTime;
+	}
+	/*averagedata.bruteScore = averagedata.bruteScore/3;
+	averagedata.bruteTime = averagedata.bruteTime / 3;
+	averagedata.climbScore = averagedata.climbScore / 3;
+	averagedata.climbTime = averagedata.climbTime / 3;
+	averagedata.tabuScore = averagedata.tabuScore / 3;
+	averagedata.tabuTime = averagedata.tabuTime / 3;*/
+	return averagedata;
+}
+
+ostream& operator<<(std::ostream& os, experimentData const& x) {
+	os << "Size: " << x.size << endl;
+	os << "Brute Score: " << x.bruteScore << " | ";
+	os << "Brute Time: " << x.bruteTime << endl;
+	os << "Climb Score: " << x.climbScore << " | ";
+	os << "Climb Time: " << x.climbTime << endl;
+	os << "Tabu Score: " << x.tabuScore << " | ";
+	os << "Tabu Time: " << x.tabuTime << endl;
+
+	return os;
+}
+
+void saveData(experimentData data, string file) {
+	//save the data to file
+	ofstream ofile_obj;
+	ofile_obj.open(file, ios::app | ios::out);
+	ofile_obj << data;
+	ofile_obj.close();
+}
+
+void eksperyment() {
+	saveData(eksperymentBigPart("VI.txt"), "Vdata.txt");
+	saveData(eksperymentBigPart("IV.txt"), "Vdata.txt");
+	saveData(eksperymentBigPart("V.txt"), "Vdata.txt");
+}
+//-----funkcja interfejsu uzytkownika-----
 void input_function(string &input, solution &object) {
 	if (input._Equal("load")) {
 		cout << "Enter file name: ";
@@ -308,6 +439,10 @@ void input_function(string &input, solution &object) {
 	if (input._Equal("evaluate")) {
 		cout << evaluate(object) << endl;
 	}
+	
+	if (input._Equal("print")) {
+		cout << object;
+	}
 	if (input._Equal("brute")) {
 		cout << "Count time?(y/n): ";
 		cin >> input;
@@ -319,16 +454,34 @@ void input_function(string &input, solution &object) {
 			std::cout << "Done in: " << diff.count() << " s" << endl;
 		}
 	}
-	if (input._Equal("print")) {
-		cout << object;
-	}
-	if (input._Equal("climb_a")) {
+	if (input._Equal("climb")) {
 		cout << "Repeat this many times: ";
 		int i;
 		cin >> i;
+		cout << "Count time?(y/n): ";
+		cin >> input;
+		auto start = std::chrono::high_resolution_clock::now();
 		object = climb_a(object, i);
+		if (input._Equal("y")) {
+			auto end = std::chrono::high_resolution_clock::now();
+			std::chrono::duration<double> diff = end - start;
+			std::cout << "Done in: " << diff.count() << " s" << endl;
+		}
 	}
-
+	if (input._Equal("tabu")) {
+		cout << "Count time?(y/n): ";
+		cin >> input;
+		auto start = std::chrono::high_resolution_clock::now();
+		object = tabu(object);
+		if (input._Equal("y")) {
+			auto end = std::chrono::high_resolution_clock::now();
+			std::chrono::duration<double> diff = end - start;
+			std::cout << "Done in: " << diff.count() << " s" << endl;
+		}
+	}
+	if (input._Equal("exp")) {
+		eksperyment();
+	}
 
 }
 
