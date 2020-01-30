@@ -10,6 +10,9 @@
 #include <chrono>
 #include <string>
 #include <list>
+#include <random>
+#include <numeric>
+#include <sstream>
 
 using namespace std;
 
@@ -124,7 +127,6 @@ int factorial(int n)
 	else
 		return 1;
 }
-
 int evaluate(solution s) {
 	int sum = 0;
 	int i;
@@ -137,12 +139,10 @@ int evaluate(solution s) {
 	}
 	return sum;
 }
-
 solution next(solution &x) {
 	next_permutation(x.locations.begin(), x.locations.end());
 	return x;
 }
-
 solution brute_force(solution k) {
 	int best = evaluate(k);
 	int current;
@@ -158,7 +158,6 @@ solution brute_force(solution k) {
 	}
 	return result;
 }
-
 void generate_solution(solution &x, int seed) {
 	srand(seed);
 	for (int i = 0; i < x.size; i++) {
@@ -176,7 +175,6 @@ void generate_solution(solution &x, int seed) {
 		}
 	}
 }
-
 ostream& operator<<(std::ostream& os, solution const& x) {
 	os << x.size << endl;
 	for (int i = 0; i < x.size; i++) {
@@ -199,7 +197,6 @@ ostream& operator<<(std::ostream& os, solution const& x) {
 	os << endl;
 	return os;
 }
-
 istream& operator>> (istream& stream, solution& x) {
 	stream >> x.size;
 	x.resize_s(x.size);
@@ -218,14 +215,12 @@ istream& operator>> (istream& stream, solution& x) {
 	}
 	return stream;
 }
-
 void save_solution_tofile(solution tosave, string file) {
 	ofstream ofile_obj;
 	ofile_obj.open(file, ios::trunc | ios::out);
 	ofile_obj << tosave;
 	ofile_obj.close();
 }
-
 void load_solution_fromfile(solution &toload, string file) {
 	ifstream ifile_obj;
 	ifile_obj.open(file, ios::in);
@@ -257,6 +252,7 @@ list<solution> nearby_list(solution object) {
 
 
 // lab 5 climb algoryth
+
 solution climb_a(solution object, int repeats) {
 	solution best_solution = object;
 	int best = evaluate(object);
@@ -273,7 +269,9 @@ solution climb_a(solution object, int repeats) {
 	}
 	return best_solution;
 }
+
 //-----lab 6 tabu algorytm-----
+
 bool tabucontains(solution object, list<solution> container) {
 	bool contains = false;
 	for (solution &x : container) {
@@ -284,7 +282,6 @@ bool tabucontains(solution object, list<solution> container) {
 	}
 	return contains;
 }
-
 solution tabu(solution object) {
 	solution sBest = object;
 	int sBestEv = evaluate(sBest);
@@ -314,7 +311,9 @@ solution tabu(solution object) {
 	}
 	return sBest;
 }
+
 //-----lab 7 eksperyment-----
+
 class experimentData {
 public:
 	double bruteTime;
@@ -335,7 +334,6 @@ public:
 		this->size = 0;
 	}
 };
-
 experimentData experimentPart(string file) {
 	solution object(1);
 	solution temp(1);
@@ -366,7 +364,6 @@ experimentData experimentPart(string file) {
 	
 	return data;
 }
-
 experimentData eksperymentBigPart(string file) { 
 	experimentData data[1];
 	int repeats = 1;
@@ -384,15 +381,14 @@ experimentData eksperymentBigPart(string file) {
 		averagedata.tabuScore = data[i].tabuScore;
 		averagedata.tabuTime = data[i].tabuTime;
 	}
-	/*averagedata.bruteScore = averagedata.bruteScore/3;
-	averagedata.bruteTime = averagedata.bruteTime / 3;
-	averagedata.climbScore = averagedata.climbScore / 3;
-	averagedata.climbTime = averagedata.climbTime / 3;
-	averagedata.tabuScore = averagedata.tabuScore / 3;
-	averagedata.tabuTime = averagedata.tabuTime / 3;*/
+	averagedata.bruteScore = averagedata.bruteScore/ repeats;
+	averagedata.bruteTime = averagedata.bruteTime / repeats;
+	averagedata.climbScore = averagedata.climbScore / repeats;
+	averagedata.climbTime = averagedata.climbTime / repeats;
+	averagedata.tabuScore = averagedata.tabuScore / repeats;
+	averagedata.tabuTime = averagedata.tabuTime / repeats;
 	return averagedata;
 }
-
 ostream& operator<<(std::ostream& os, experimentData const& x) {
 	os << "Size: " << x.size << endl;
 	os << "Brute Score: " << x.bruteScore << " | ";
@@ -404,7 +400,6 @@ ostream& operator<<(std::ostream& os, experimentData const& x) {
 
 	return os;
 }
-
 void saveData(experimentData data, string file) {
 	//save the data to file
 	ofstream ofile_obj;
@@ -412,11 +407,288 @@ void saveData(experimentData data, string file) {
 	ofile_obj << data;
 	ofile_obj.close();
 }
-
 void eksperyment() {
 	saveData(eksperymentBigPart("VI.txt"), "Vdata.txt");
 	saveData(eksperymentBigPart("IV.txt"), "Vdata.txt");
 	saveData(eksperymentBigPart("V.txt"), "Vdata.txt");
+}
+
+//----- genetic algorithm -----
+
+class specimen {
+public:
+	std::vector<int> locations;
+	int fitness;
+	int size;
+	/*specimen(int newsize) {
+		locations.resize(newsize);
+		this->size = newsize;
+	}*/
+	void resize(int newsize) {
+		locations.resize(newsize);
+		this->size = newsize;
+	}
+};
+class Population {
+public:
+	std::vector<specimen> pop;
+	int generation;
+	int size;
+	int h_fitness;
+	int h_fitness_pop;
+	Population(int size, int specsize) {
+		this->generation = 0;
+		this->size = size;
+		pop.resize(size);
+		for (int i=0;i<size;i++)
+			pop[i].resize(specsize);
+	}
+};
+vector<specimen> cross(specimen x, specimen y) {
+	vector<specimen> children;
+	children.resize(2);
+	children[0] = x;
+	children[1] = x;
+
+	vector<int> cross;
+	cross.resize(x.size);
+	cross = y.locations;
+	
+	for (int g = 0; g < children.size(); g++) {
+		for (int i = 0; i < children[g].size / 2; i++) {
+			int j = 0;
+			bool cond = false;
+			while (j < cross.size() && !cond) {
+				if (children[g].locations[i] == cross[j]) {
+					cross.erase(cross.begin() + j);
+					cond = true;
+					j--;
+				}
+				j++;
+			}
+		}
+		cross.shrink_to_fit();
+		for (int i = 0; i < cross.size(); i++) {
+			children[g].locations[children[g].locations.size() - i-1] = cross[cross.size() - i-1];
+		}
+	}
+	
+	return children;
+}
+vector<specimen> crosstwo(specimen x, specimen y){
+	vector<specimen> children;
+	children.resize(2);
+	children[0] = x;
+	children[1] = x;
+
+	vector<int> cross;
+	cross.resize(x.size);
+	cross = y.locations;
+	
+
+	for (int g = 0; g < children.size(); g++) {
+		int crosspoint = rand() % children[g].size;
+		int crosspointtwo = rand() % (children[g].size -crosspoint) + crosspoint;
+		for (int i = 0; i < crosspoint; i++) {
+			int j = 0;
+			bool cond = false;
+			while (j < cross.size() && !cond) {
+				if (children[g].locations[i] == cross[j]) {
+					cross.erase(cross.begin() + j);
+					cond = true;
+					j--;
+				}
+				j++;
+			}
+		}
+		for (int i = crosspoint; i < crosspointtwo; i++) {
+			int j = 0;
+			bool cond = false;
+			while (j < cross.size() && !cond) {
+				if (children[g].locations[i] == cross[j]) {
+					cross.erase(cross.begin() + j);
+					cond = true;
+					j--;
+				}
+				j++;
+			}
+		}
+		cross.shrink_to_fit();
+		for (int i = 0; i < cross.size(); i++) {
+			children[g].locations[children[g].locations.size() - i - 1] = cross[cross.size() - i - 1];
+		}
+	}
+
+	return children;
+}
+int fitness(specimen x, solution starting) {
+	starting.locations = x.locations;
+	return evaluate(starting);
+}
+specimen mutate(specimen x) {
+	int a = rand() % x.size;
+	int b = a;
+	while (b == a) {
+		b = rand() % x.size;
+	}
+	int temp = x.locations[a];
+	x.locations[a] = x.locations[b];
+	x.locations[b] = temp;
+	return x;
+}
+
+bool evaluate_pop(Population population, int genlimit, int minscore, string type) {
+	if (type._Equal("gen")) {
+		if (population.generation > genlimit)
+			return false;
+	}
+	else if (type._Equal("score")) {
+		if (population.h_fitness < minscore)
+			return false;
+	}
+	else
+		return false;
+
+	return true;
+}
+void set_h_fitness(Population &population, solution sol) {
+	for (int i = 0; i < population.size; i++) {
+		population.pop[i].fitness = fitness(population.pop[i], sol);
+	}
+	population.h_fitness = population.pop[0].fitness;
+	population.h_fitness_pop = 0;
+	for (int i = 0; i < population.size; i++) {
+		population.pop[i].fitness = fitness(population.pop[i], sol);
+		if (population.pop[i].fitness < population.h_fitness) {
+			population.h_fitness = population.pop[i].fitness;
+			population.h_fitness_pop = i;
+		}
+	}
+}
+void generatepop(Population &population, solution sol) {
+	vector<int> genes;
+	genes.resize(population.pop[0].size);
+	std::iota(genes.begin(), genes.end(), 0);
+	std::random_device rd;
+	std::mt19937 g(rd());
+
+	for (int j = 0; j < population.size; j++) {
+		std::shuffle(genes.begin(), genes.end(), g);
+		population.pop[j].locations = genes;
+	}
+	set_h_fitness(population, sol);
+}
+int ruletka(Population population, solution sol) {
+	int sum=0;
+	for (specimen k : population.pop) {
+		sum += 1000000/k.fitness;
+	}
+	// lepsze generatory losowe
+	int roll = rand() % sum;
+	int sum_f = 0;
+	bool cond = false;
+	int i = 0;
+	while (!cond) {
+		sum_f += 1000000/population.pop[i].fitness;
+		if (sum_f > roll || i == population.size - 1) {
+			cond = true;
+			return i;
+		}
+		i++;
+	}
+}
+specimen turniej(Population &population, solution sol, int t_size) {
+	vector<int> t_pop;
+	t_pop.resize(t_size);
+	for (int i = 0; i < t_size; i++) {
+		t_pop[i] = rand()%population.size;
+	}
+	int best = 0;
+	for (int i = 0; i < t_size; i++) {
+		if (population.pop[i].fitness < population.pop[best].fitness)
+			best = i;
+	}
+	return population.pop[best];
+}
+
+solution genetic(solution starting, int popsize, string cross_type, string select_type, string finish_type, int cross_prob, int mut_prob, int genlimit, int minscore) {
+	srand(time(NULL));
+
+	int t_size = 20;
+	specimen adam;
+	adam.locations = starting.locations;
+	
+	Population population(popsize, starting.size);
+	generatepop(population, starting);
+	Population copypop = population;
+	while (evaluate_pop(population, minscore, genlimit, finish_type)) {
+		for (int i = 0; i < population.size; i++) {
+			if (rand() % 100 < cross_prob) {
+				if (cross_type._Equal("one")) {
+					if (select_type._Equal("rul"))
+						copypop.pop[i] = cross(population.pop[ruletka(population, starting)], population.pop[ruletka(population, starting)])[0];
+					if (select_type._Equal("turney"))
+						copypop.pop[i] = cross(turniej(population, starting, population.size / 2), turniej(population, starting, population.size / 2))[0];
+				}
+				if (cross_type._Equal("two")) {
+					if (select_type._Equal("rul"))
+						copypop.pop[i] = crosstwo(population.pop[ruletka(population, starting)], population.pop[ruletka(population, starting)])[0];
+					if (select_type._Equal("turney"))
+						copypop.pop[i] = crosstwo(turniej(population, starting, population.size / 2), turniej(population, starting, population.size / 2))[0];
+				}
+			}
+
+		}
+		population = copypop;
+		for (int i = 0; i < population.size; i++) {
+			if (rand() % 100 < mut_prob) {
+				population.pop[i] = mutate(population.pop[i]);
+			}
+			
+		}
+		
+		population.generation++;
+	}
+
+	starting.locations = population.pop[population.h_fitness_pop].locations;
+	return starting;
+}
+
+//----- genetic eksperyment-----
+void gen_exp_part(string savefile, string file, string cross_type, string select_type, int mut_prob,int crossprob, int popsize) {
+	solution object(1);
+	solution temp(1);
+	load_solution_fromfile(object, file);
+	auto start = std::chrono::high_resolution_clock::now();
+	temp = genetic(object, popsize, cross_type, select_type, "gen", crossprob, mut_prob, 15, 0);
+	auto end = std::chrono::high_resolution_clock::now();
+	std::chrono::duration<double> diff = end - start;
+	ofstream ofile_obj;
+	ofile_obj.open(savefile, ios::app | ios::out);
+	ofile_obj << "cross type: " << cross_type << " | ";
+	ofile_obj << "select type: " << select_type << " | ";
+	ofile_obj << "mutation probability: " << mut_prob << "% | ";
+	ofile_obj << "cross probability: " << crossprob << "% | ";
+	ofile_obj << "population size: " << popsize << " | ";
+	ofile_obj << "time: " << diff.count() << " | ";
+	ofile_obj << "score: " << evaluate(temp)<<endl;
+	ofile_obj.close();
+}
+
+
+void gen_exp(string file, string savefile) {
+	
+	for (int popsize = 25; popsize < 250; popsize += 25) {
+		for (int mut_prob=0; mut_prob < 100; mut_prob += 10) {
+			for (int cross_prob = 0; cross_prob < 100; cross_prob += 10) {
+				gen_exp_part(savefile, file, "one", "rul", mut_prob, cross_prob, popsize);
+				gen_exp_part(savefile, file, "one", "turney", mut_prob, cross_prob, popsize);
+				gen_exp_part(savefile, file, "two", "rul", mut_prob, cross_prob, popsize);
+				gen_exp_part(savefile, file, "two", "turney", mut_prob, cross_prob, popsize);
+			}
+		}
+	}
+	
 }
 //-----funkcja interfejsu uzytkownika-----
 void input_function(string &input, solution &object) {
@@ -482,7 +754,53 @@ void input_function(string &input, solution &object) {
 	if (input._Equal("exp")) {
 		eksperyment();
 	}
-
+	if (input._Equal("genetic")) {
+		cout << "population size ";
+		cin >> input;
+		stringstream popsizes(input);
+		int popsize = 0;
+		popsizes >> popsize;
+		cout << "cross type ";
+		string cross_type;
+		cin >> cross_type;
+		cout << "select type ";
+		string select_type;
+		cin >> select_type;
+		cout << "finish type ";
+		string finish_type;
+		cin >> finish_type;
+		cout << "cross probability ";
+		cin >> input;
+		stringstream cross_p(input);
+		int cross_prob = 0;
+		cross_p >> cross_prob;
+		cout << "cross probability ";
+		cin >> input;
+		stringstream mut_p(input);
+		int mut_prob = 0;
+		mut_p >> mut_prob;
+		int genl = 0;
+		if (finish_type._Equal("gen"))
+		{
+			cout << "generation limit ";
+			cin >> input;
+			stringstream gen(input);
+			gen >> genl;
+		}
+		int scorel = 0;
+		if (finish_type._Equal("score"))
+		{
+			cout << "generation limit ";
+			cin >> input;
+			stringstream score(input);
+			score >> scorel;
+		}
+		object = genetic(object, popsize, cross_type, select_type, finish_type, cross_prob,mut_prob, genl, scorel);
+		//linia komend zamiast soutin
+	}
+	if (input._Equal("genexp")) {
+		gen_exp("genexp.txt", "gensave.txt");
+	}
 }
 
 

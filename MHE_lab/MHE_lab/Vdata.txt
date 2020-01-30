@@ -2,3 +2,15 @@ Size: 5
 Brute Score: 617 | Brute Time: 0.0778511
 Climb Score: 768 | Climb Time: 0.0518157
 Tabu Score: 768 | Tabu Time: 0.0236159
+Size: 6
+Brute Score: 1226 | Brute Time: 0.604867
+Climb Score: 1507 | Climb Time: 0.0545192
+Tabu Score: 1507 | Tabu Time: 1.65638
+Size: 4
+Brute Score: 355 | Brute Time: 0.0281266
+Climb Score: 379 | Climb Time: 0.0452508
+Tabu Score: 379 | Tabu Time: 0.618118
+Size: 5
+Brute Score: 617 | Brute Time: 0.0962212
+Climb Score: 843 | Climb Time: 0.0304081
+Tabu Score: 843 | Tabu Time: 1.00901

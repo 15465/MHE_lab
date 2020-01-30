@@ -1,0 +1,1243 @@
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0741326
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0536219
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0531103
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0738138
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0552873
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.04058
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0828702
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0411448
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.0790662
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.053851
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.112743
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.0394483
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0690626
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0731359
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0756785
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0410983
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.079562
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.104029
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.106526
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.0485327
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.068165
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.0588326
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.0620917
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.0876177
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.067794
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.0579435
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.0884004
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.0495014
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.194304
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.112635
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.149112
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.0641459
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.129767
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.0570444
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.100024
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.126031
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.115804
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.061358
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.106792
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.108199
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0596181
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0365672
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0336623
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.041402
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0576972
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0567899
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0541509
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0342654
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0493286
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0507575
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0413693
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0617315
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.0867177
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.0490196
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.078679
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.0564075
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.178694
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.0938649
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.061194
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.0454413
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.0925273
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.0741694
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.113284
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.0497263
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.101638
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0539997
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.139838
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0913643
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.134558
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.0626462
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.133418
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.0593031
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.11305
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.0711811
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.196541
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.06473
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.0976616
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.128105
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.177656
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.0561472
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0353638
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0375788
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0532875
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0467759
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.04085
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0328404
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0476407
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0337176
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0462744
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0598668
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0860659
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0524151
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0803231
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0637541
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.11011
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0431918
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0734923
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0422036
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0891436
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0460522
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.113506
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0432969
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0831157
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0555556
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.119228
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.0954881
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.179007
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.0865399
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.182929
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.0640417
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.143241
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.0440553
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.162364
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.0762851
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.170928
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.140562
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.137751
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.0708392
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.123263
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.120318
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.0433394
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.0535044
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.0312688
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.0311704
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.0407196
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.0639855
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.0891556
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.0747462
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.0987794
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.0462347
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.102205
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.0623724
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.0756706
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.0806924
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.0685196
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.0572876
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.065651
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.0507819
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.0604463
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.052737
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.165746
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0883268
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0610599
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0511001
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.0695247
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.0962856
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.0843898
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.067509
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.123038
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.0798124
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.0780489
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.103527
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.252626
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.11655
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.156094
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.0581576
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.178518
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.0788721
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.0998385
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.0779242
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0553547
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0731934
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0566877
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0588137
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0606847
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0416108
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.070056
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0438539
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.0494522
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.0526704
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.0400498
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.103347
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.211603
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.133019
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.202525
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.140066
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.176828
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.0825767
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.128848
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.0614563
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.131057
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.0636992
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.383713
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.0771122
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.117512
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.0860828
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.164268
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.0603441
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.377344
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.110824
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.304253
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.0952728
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.260139
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.0516915
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.130017
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.0970912
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.159915
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.0930135
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.465235
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.3428
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.142265
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.288394
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.151271
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.219682
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.130372
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.0583207
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.315088
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.100077
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.192843
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.186243
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.210627
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.0824733
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.105804
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.227196
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.0879722
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.0594555
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.111312
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.137104
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.301597
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.120337
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.224271
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.165496
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.213144
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.135239
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.189269
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.191921
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.202487
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.0926808
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.278063
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.0975431
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.260073
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.229928
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.409061
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.392358
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.198662
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.259529
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.276795
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.0960618
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.282168
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.140455
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.115604
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.144727
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.0753093
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.0468564
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0583442
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0923739
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0828608
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0957935
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.0837691
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.240066
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.155001
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.139596
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.421958
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.165318
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.120953
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.0720846
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.0519574
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.0636519
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.0991952
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.102211
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.200807
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.0797862
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.0817885
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.0680962
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.161346
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.0565236
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.0718456
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.0687646
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.251362
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.0976512
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.121249
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.119474
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.118221
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.0841878
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.183753
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.0579011
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.111627
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.108873
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.271885
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.137928
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0968114
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0532683
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0392071
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0630125
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.0919203
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.149954
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.136644
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.114974
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.197746
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.0776827
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.144927
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.112622
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.0516521
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.0508024
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.0796204
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.0936161
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.11539
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.0858881
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.0849692
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.0655241
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.159465
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.0493624
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.0892785
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.0538669
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.14049
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.0836177
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.245548
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.099803
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.197018
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.107297
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.125613
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.0677206
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.213117
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.101721
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.311764
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.0889477
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.20641
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.13134
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.257282
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.373577
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.0843925
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.076651
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.0838906
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.064224
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.117541
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.094674
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.145059
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.0688102
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.182956
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.0967953
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.0966378
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.0531235
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.118126
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.0627083
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.100926
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.0493256
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.122973
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.216172
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.553112
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.301801
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.131593
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.0863436
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.099228
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.0522357
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.105665
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.0639094
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.113195
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.07277
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.153525
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.143647
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.210318
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.183318
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.188348
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.0946136
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.142999
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.0868416
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.193683
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.0709357
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.10639
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.0683439
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0345828
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0323731
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0520868
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0528835
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 10% | population size: 25 | time: 0.128889
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0962271 | score: 412
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0777572 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0605233 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 25 | time: 0.0566597 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0673269 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0504094 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.235726 | score: 463
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 25 | time: 0.0879727 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.122674 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.0547375 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.0838937 | score: 417
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 25 | time: 0.0711345 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.115324 | score: 412
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.069752 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0791656 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 25 | time: 0.0558373 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.0887605 | score: 412
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.0442699 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.108857 | score: 482
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 25 | time: 0.0738573 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.131977 | score: 419
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.0743846 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.105988 | score: 412
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 25 | time: 0.0823243 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.141599 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.096296 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.124771 | score: 412
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 25 | time: 0.0682624 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.124264 | score: 570
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.0579741 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.126987 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 25 | time: 0.074372 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.248821 | score: 511
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.113224 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.222853 | score: 425
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 25 | time: 0.170603 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.149949 | score: 491
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.120472 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.258616 | score: 412
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 25 | time: 0.195279 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.104865 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0503761 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0456608 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 25 | time: 0.0487379 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0472104 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.070102 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.0407005 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 25 | time: 0.050986 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0679164 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0622473 | score: 425
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0305378 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 25 | time: 0.0359864 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.103947 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.104005 | score: 412
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.070255 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 25 | time: 0.072843 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.112706 | score: 419
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.0876945 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.0814911 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 25 | time: 0.0764152 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.0943344 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.195693 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.170706 | score: 417
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 25 | time: 0.0842247 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0944822 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0557118 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0865152 | score: 465
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 25 | time: 0.0521523 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.100421 | score: 570
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.113595 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.191514 | score: 548
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 25 | time: 0.0909249 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.223654 | score: 482
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.050171 | score: 412
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.133425 | score: 480
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 25 | time: 0.0638133 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.17463 | score: 526
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.114248 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.198568 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 25 | time: 0.115137 | score: 419
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0801815 | score: 412
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0950224 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0669463 | score: 412
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 25 | time: 0.0586991 | score: 568
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0568793 | score: 509
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0861094 | score: 509
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0608617 | score: 509
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 25 | time: 0.0416449 | score: 425
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0756626 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0656425 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0721391 | score: 412
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 25 | time: 0.0565893 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0461654 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0833249 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.084487 | score: 504
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 25 | time: 0.0521114 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0744097 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0547647 | score: 412
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0531385 | score: 533
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 25 | time: 0.0919174 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0710984 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0651953 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0745526 | score: 495
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 25 | time: 0.0737374 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.0740109 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.122493 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.249468 | score: 491
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 25 | time: 0.112826 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.234554 | score: 511
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.110365 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.217524 | score: 412
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 25 | time: 0.092863 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.331074 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.102576 | score: 412
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.143053 | score: 419
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 25 | time: 0.0591938 | score: 417
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.115096 | score: 491
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.0928664 | score: 509
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.29877 | score: 526
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 25 | time: 0.188833 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.151408 | score: 395
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.137041 | score: 417
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.0571962 | score: 425
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 25 | time: 0.152798 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.169184 | score: 460
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.0790805 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.3263 | score: 417
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 25 | time: 0.128418 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.105587 | score: 504
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.135683 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.454804 | score: 412
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 25 | time: 0.202262 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.309087 | score: 395
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.0828603 | score: 417
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.163212 | score: 412
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 25 | time: 0.109323 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.295126 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.11119 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.116649 | score: 460
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 25 | time: 0.0960503 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.187607 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0906698 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0818839 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 25 | time: 0.0620507 | score: 425
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.0919205 | score: 432
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.1516 | score: 504
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.158171 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 25 | time: 0.125646 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.266051 | score: 491
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.116958 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.338958 | score: 570
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 25 | time: 0.125069 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.263378 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.0996836 | score: 454
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.158102 | score: 465
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 25 | time: 0.126399 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.169309 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.0994528 | score: 570
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.136884 | score: 509
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 25 | time: 0.0788528 | score: 419
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0534952 | score: 533
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0319199 | score: 495
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0321972 | score: 425
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 25 | time: 0.0971962 | score: 412
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0373922 | score: 432
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0797606 | score: 419
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.101548 | score: 395
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 25 | time: 0.0741045 | score: 509
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.132366 | score: 417
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.234061 | score: 412
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.111713 | score: 412
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 25 | time: 0.0715369 | score: 504
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.258412 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.0545085 | score: 425
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.0662373 | score: 570
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 25 | time: 0.0386525 | score: 412
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.0883539 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.125206 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.211097 | score: 568
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 25 | time: 0.191846 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.577222 | score: 482
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.209184 | score: 412
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.189422 | score: 480
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 25 | time: 0.106731 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.175145 | score: 412
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.121113 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.111175 | score: 482
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 25 | time: 0.0751839 | score: 412
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.142336 | score: 419
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.0827282 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.147077 | score: 417
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 25 | time: 0.261212 | score: 412
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.205729 | score: 425
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.089805 | score: 432
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.165541 | score: 570
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 25 | time: 0.0626343 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.11126 | score: 432
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.324774 | score: 509
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.33935 | score: 425
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 25 | time: 0.132864 | score: 570
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.0585261 | score: 533
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.100407 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.0533063 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 25 | time: 0.0464685 | score: 504
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.0436232 | score: 533
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.033806 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.0753647 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 25 | time: 0.0815198 | score: 412
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.155905 | score: 395
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.128086 | score: 417
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.0570189 | score: 417
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 25 | time: 0.0420138 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.0907589 | score: 504
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.0456536 | score: 495
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.137805 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 25 | time: 0.0483288 | score: 412
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.0871245 | score: 495
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.055218 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.183229 | score: 495
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 25 | time: 0.0938608 | score: 495
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.162502 | score: 395
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.124822 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.101183 | score: 463
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 25 | time: 0.07919 | score: 509
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.161767 | score: 568
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.0535827 | score: 412
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.139388 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 25 | time: 0.054266 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.229739 | score: 425
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.0927273 | score: 482
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.120516 | score: 533
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 25 | time: 0.127264 | score: 412
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.0988416 | score: 533
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.099002 | score: 429
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.17628 | score: 454
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 25 | time: 0.0833721 | score: 417
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.247779 | score: 482
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.109187 | score: 570
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.306179 | score: 568
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 25 | time: 0.250455 | score: 533
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.0788981 | score: 504
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.102348 | score: 419
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.0676992 | score: 417
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 25 | time: 0.0665932 | score: 412
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.108585 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0681204 | score: 425
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0514299 | score: 395
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 25 | time: 0.0464937 | score: 395
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.0745528 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.0458005 | score: 504
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.110386 | score: 509
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 25 | time: 0.0803115 | score: 533
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.096781 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.207919 | score: 425
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.323922 | score: 429
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 25 | time: 0.117187 | score: 395
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.256066 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.06387 | score: 417
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.182827 | score: 509
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 25 | time: 0.061101 | score: 482
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.11914 | score: 425
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.0851057 | score: 412
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.205082 | score: 417
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 25 | time: 0.0729298 | score: 425
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.138616 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.0507917 | score: 509
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.208388 | score: 395
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 25 | time: 0.20938 | score: 417
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.235591 | score: 460
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.162071 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.171819 | score: 509
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 25 | time: 0.0928093 | score: 504
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.210474 | score: 412
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.0755916 | score: 568
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.222073 | score: 425
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 25 | time: 0.287373 | score: 417
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.269361 | score: 511
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.0677403 | score: 417
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.223719 | score: 570
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 25 | time: 0.0757301 | score: 412
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0504744 | score: 533
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0568211 | score: 509
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0353576 | score: 504
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 25 | time: 0.0787008 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.073946 | score: 511
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.0985434 | score: 417
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.194245 | score: 417
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 25 | time: 0.0983274 | score: 465
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.442291 | score: 482
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.127354 | score: 504
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.126687 | score: 511
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 25 | time: 0.123124 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.156384 | score: 412
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.0832799 | score: 412
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.141108 | score: 412
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 25 | time: 0.219126 | score: 491
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.199415 | score: 495
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.206136 | score: 412
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.357434 | score: 568
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 25 | time: 0.0838684 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.144217 | score: 509
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.115728 | score: 395
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.110165 | score: 570
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 25 | time: 0.0678483 | score: 465
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.188462 | score: 395
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.0825221 | score: 412
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.169179 | score: 533
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 25 | time: 0.13669 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.131073 | score: 412
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.0780632 | score: 395
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.195464 | score: 425
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 25 | time: 0.0835518 | score: 533
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.174422 | score: 570
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.196381 | score: 425
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.296565 | score: 504
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 25 | time: 0.122229 | score: 460
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.219553 | score: 432
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.105276 | score: 395
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.128231 | score: 395
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 25 | time: 0.0987111 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.199602 | score: 412
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.088863 | score: 460
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.0605203 | score: 395
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 25 | time: 0.0870128 | score: 417
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.0790926 | score: 417
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.0748988 | score: 568
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.107786 | score: 526
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 25 | time: 0.089125 | score: 533
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.0884467 | score: 533
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.132988 | score: 412
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.214234 | score: 570
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 25 | time: 0.166385 | score: 495
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.100467 | score: 480
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.0773216 | score: 504
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.0851193 | score: 395
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 25 | time: 0.0845028 | score: 509
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.210718 | score: 480
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.0433836 | score: 533
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.116753 | score: 533
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 25 | time: 0.0628077 | score: 412
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.246473 | score: 429
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.0782398 | score: 395
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.131182 | score: 482
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 25 | time: 0.067569 | score: 425
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.105146 | score: 417
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.0718532 | score: 504
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.130467 | score: 570
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 25 | time: 0.0641575 | score: 509
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.127576 | score: 412
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.165618 | score: 412
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.239932 | score: 419
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 25 | time: 0.125967 | score: 412
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.215876 | score: 548
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.157059 | score: 395
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.206763 | score: 460
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 25 | time: 0.147908 | score: 425
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.301387 | score: 568
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.100215 | score: 548
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.188976 | score: 495
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 25 | time: 0.0969945 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0462233 | score: 417
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0744359 | score: 395
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0665546 | score: 412
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 25 | time: 0.0627229 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 10% | population size: 25 | time: 0.0741657 | score: 425
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 10% | population size: 25 | time: 0.111432 | score: 425
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 10% | population size: 25 | time: 0.127745 | score: 412
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 10% | population size: 25 | time: 0.0650149 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 20% | population size: 25 | time: 0.0649698 | score: 504
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 20% | population size: 25 | time: 0.0744858 | score: 491
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 20% | population size: 25 | time: 0.126712 | score: 509
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 20% | population size: 25 | time: 0.059654 | score: 425
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 30% | population size: 25 | time: 0.117452 | score: 495
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 30% | population size: 25 | time: 0.0677469 | score: 504
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 30% | population size: 25 | time: 0.150886 | score: 417
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 30% | population size: 25 | time: 0.0939061 | score: 533
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 40% | population size: 25 | time: 0.0800878 | score: 412
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 40% | population size: 25 | time: 0.0683051 | score: 412
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 40% | population size: 25 | time: 0.0917068 | score: 417
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 40% | population size: 25 | time: 0.0863971 | score: 504
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 50% | population size: 25 | time: 0.111972 | score: 548
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 50% | population size: 25 | time: 0.184891 | score: 465
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 50% | population size: 25 | time: 0.12815 | score: 548
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 50% | population size: 25 | time: 0.0639546 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 60% | population size: 25 | time: 0.240304 | score: 533
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 60% | population size: 25 | time: 0.0857064 | score: 417
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 60% | population size: 25 | time: 0.150351 | score: 417
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 60% | population size: 25 | time: 0.123576 | score: 395
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 70% | population size: 25 | time: 0.17065 | score: 432
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 70% | population size: 25 | time: 0.11622 | score: 429
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 70% | population size: 25 | time: 0.15596 | score: 463
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 70% | population size: 25 | time: 0.100083 | score: 395
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 80% | population size: 25 | time: 0.247894 | score: 533
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 80% | population size: 25 | time: 0.0998867 | score: 412
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 80% | population size: 25 | time: 0.202231 | score: 568
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 80% | population size: 25 | time: 0.0982635 | score: 509
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 90% | population size: 25 | time: 0.201355 | score: 465
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 90% | population size: 25 | time: 0.170693 | score: 395
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 90% | population size: 25 | time: 0.220639 | score: 412
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 90% | population size: 25 | time: 0.109996 | score: 509
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 50 | time: 0.12443 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 50 | time: 0.117 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 50 | time: 0.106985 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 50 | time: 0.110302 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 50 | time: 0.132407 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 50 | time: 0.174157 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 50 | time: 0.148882 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 50 | time: 0.103766 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 50 | time: 0.173664 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 50 | time: 0.134208 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 50 | time: 0.160743 | score: 432
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 50 | time: 0.139324 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 50 | time: 0.201771 | score: 465
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 50 | time: 0.0999212 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 50 | time: 0.317565 | score: 412
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 50 | time: 0.142878 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 50 | time: 0.198195 | score: 463
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 50 | time: 0.0896852 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 50 | time: 0.317569 | score: 509
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 50 | time: 0.0958594 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 50 | time: 0.311161 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 50 | time: 0.135808 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 50 | time: 0.318769 | score: 548
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 50 | time: 0.166189 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 50 | time: 0.31298 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 50 | time: 0.12112 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 50 | time: 0.349066 | score: 480
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 50 | time: 0.142124 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 50 | time: 0.636553 | score: 480
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 50 | time: 0.243757 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 50 | time: 0.553883 | score: 495
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 50 | time: 0.294941 | score: 412
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 50 | time: 0.311439 | score: 568
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 50 | time: 0.175902 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 50 | time: 0.626498 | score: 482
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 50 | time: 0.164754 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 50 | time: 0.558746 | score: 412
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 50 | time: 0.184153 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 50 | time: 0.599288 | score: 511
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 50 | time: 0.24729 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 50 | time: 0.136852 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 50 | time: 0.115622 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 50 | time: 0.142869 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 50 | time: 0.193947 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 50 | time: 0.207947 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 50 | time: 0.257247 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 50 | time: 0.147149 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 50 | time: 0.149073 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 50 | time: 0.193851 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 50 | time: 0.348681 | score: 412
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 50 | time: 0.442509 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 50 | time: 0.281322 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 50 | time: 0.364053 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 50 | time: 0.195328 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 50 | time: 0.299736 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 50 | time: 0.15505 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 50 | time: 0.288102 | score: 509
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 50 | time: 0.248172 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 50 | time: 0.555207 | score: 412
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 50 | time: 0.372716 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 50 | time: 0.473581 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 50 | time: 0.175155 | score: 412
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 50 | time: 0.43501 | score: 570
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 50 | time: 0.249982 | score: 509
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 50 | time: 0.223838 | score: 495
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 50 | time: 0.110938 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 50 | time: 0.28913 | score: 511
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 50 | time: 0.22676 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 50 | time: 0.326524 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 50 | time: 0.15067 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 50 | time: 0.377293 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 50 | time: 0.180839 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 50 | time: 0.371122 | score: 432
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 50 | time: 0.136856 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 50 | time: 0.610535 | score: 412
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 50 | time: 0.174486 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 50 | time: 0.379517 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 50 | time: 0.124605 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 50 | time: 0.421235 | score: 495
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 50 | time: 0.254997 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 50 | time: 0.202076 | score: 425
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 50 | time: 0.12079 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 0% | population size: 50 | time: 0.177019 | score: 482
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 0% | population size: 50 | time: 0.111984 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 50 | time: 0.169699 | score: 533
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 50 | time: 0.144357 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 10% | population size: 50 | time: 0.200456 | score: 570
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 10% | population size: 50 | time: 0.111556 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 50 | time: 0.227398 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 50 | time: 0.191714 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 20% | population size: 50 | time: 0.24895 | score: 395
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 20% | population size: 50 | time: 0.187495 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 50 | time: 0.332215 | score: 412
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 50 | time: 0.175899 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 30% | population size: 50 | time: 0.355229 | score: 548
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 30% | population size: 50 | time: 0.158547 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 50 | time: 0.323554 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 50 | time: 0.128222 | score: 482
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 40% | population size: 50 | time: 0.245521 | score: 412
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 40% | population size: 50 | time: 0.113952 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 50 | time: 0.411899 | score: 480
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 50 | time: 0.14466 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 50% | population size: 50 | time: 0.263774 | score: 568
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 50% | population size: 50 | time: 0.108215 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 50 | time: 0.273522 | score: 412
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 50 | time: 0.135566 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 60% | population size: 50 | time: 0.433169 | score: 395
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 60% | population size: 50 | time: 0.150966 | score: 412
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 50 | time: 0.429233 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 50 | time: 0.141394 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 70% | population size: 50 | time: 0.465963 | score: 463
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 70% | population size: 50 | time: 0.200353 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 50 | time: 0.54454 | score: 495
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 50 | time: 0.188879 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 80% | population size: 50 | time: 0.462456 | score: 395
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 80% | population size: 50 | time: 0.12093 | score: 395
+cross type: one | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 50 | time: 0.446045 | score: 395
+cross type: one | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 50 | time: 0.228588 | score: 395
+cross type: two | select type: rul | mutation probability: 20% | cross probability: 90% | population size: 50 | time: 0.461297 | score: 570
+cross type: two | select type: turney | mutation probability: 20% | cross probability: 90% | population size: 50 | time: 0.179504 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 50 | time: 0.0847938 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 50 | time: 0.0931338 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 0% | population size: 50 | time: 0.10072 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 0% | population size: 50 | time: 0.144265 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 50 | time: 0.171575 | score: 533
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 50 | time: 0.134205 | score: 412
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 10% | population size: 50 | time: 0.128958 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 10% | population size: 50 | time: 0.0890193 | score: 504
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 50 | time: 0.125784 | score: 395
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 50 | time: 0.0836393 | score: 533
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 20% | population size: 50 | time: 0.177345 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 20% | population size: 50 | time: 0.163711 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 50 | time: 0.243001 | score: 395
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 50 | time: 0.145903 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 30% | population size: 50 | time: 0.296959 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 30% | population size: 50 | time: 0.216089 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 50 | time: 0.430532 | score: 454
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 50 | time: 0.159529 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 40% | population size: 50 | time: 0.399101 | score: 395
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 40% | population size: 50 | time: 0.206247 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 50 | time: 0.334776 | score: 463
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 50 | time: 0.180135 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 50% | population size: 50 | time: 0.346235 | score: 480
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 50% | population size: 50 | time: 0.197982 | score: 412
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 50 | time: 0.555087 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 50 | time: 0.152621 | score: 425
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 60% | population size: 50 | time: 0.510937 | score: 412
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 60% | population size: 50 | time: 0.176739 | score: 417
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 50 | time: 0.529079 | score: 454
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 50 | time: 0.220049 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 70% | population size: 50 | time: 0.535515 | score: 570
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 70% | population size: 50 | time: 0.157638 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 50 | time: 0.546154 | score: 412
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 50 | time: 0.164947 | score: 412
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 80% | population size: 50 | time: 0.588062 | score: 454
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 80% | population size: 50 | time: 0.218504 | score: 395
+cross type: one | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 50 | time: 0.602911 | score: 417
+cross type: one | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 50 | time: 0.217174 | score: 395
+cross type: two | select type: rul | mutation probability: 30% | cross probability: 90% | population size: 50 | time: 0.535831 | score: 509
+cross type: two | select type: turney | mutation probability: 30% | cross probability: 90% | population size: 50 | time: 0.159387 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 50 | time: 0.161046 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 50 | time: 0.247062 | score: 417
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 0% | population size: 50 | time: 0.187198 | score: 417
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 0% | population size: 50 | time: 0.121531 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 50 | time: 0.153439 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 50 | time: 0.157864 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 10% | population size: 50 | time: 0.130509 | score: 395
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 10% | population size: 50 | time: 0.132167 | score: 425
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 50 | time: 0.34579 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 50 | time: 0.170119 | score: 504
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 20% | population size: 50 | time: 0.304391 | score: 480
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 20% | population size: 50 | time: 0.135499 | score: 533
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 50 | time: 0.333719 | score: 412
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 50 | time: 0.295737 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 30% | population size: 50 | time: 0.246147 | score: 495
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 30% | population size: 50 | time: 0.165543 | score: 425
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 50 | time: 0.369434 | score: 568
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 50 | time: 0.140728 | score: 504
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 40% | population size: 50 | time: 0.476612 | score: 395
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 40% | population size: 50 | time: 0.176189 | score: 417
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 50 | time: 0.407994 | score: 395
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 50 | time: 0.318716 | score: 412
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 50% | population size: 50 | time: 0.488116 | score: 395
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 50% | population size: 50 | time: 0.14065 | score: 480
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 50 | time: 0.415895 | score: 509
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 50 | time: 0.230323 | score: 482
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 60% | population size: 50 | time: 0.35957 | score: 570
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 60% | population size: 50 | time: 0.152697 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 50 | time: 0.408278 | score: 460
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 50 | time: 0.15098 | score: 412
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 70% | population size: 50 | time: 0.493303 | score: 548
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 70% | population size: 50 | time: 0.14442 | score: 395
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 50 | time: 0.66176 | score: 568
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 50 | time: 0.226599 | score: 395
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 80% | population size: 50 | time: 0.538606 | score: 454
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 80% | population size: 50 | time: 0.197471 | score: 504
+cross type: one | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 50 | time: 0.551353 | score: 526
+cross type: one | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 50 | time: 0.21714 | score: 465
+cross type: two | select type: rul | mutation probability: 40% | cross probability: 90% | population size: 50 | time: 0.591293 | score: 526
+cross type: two | select type: turney | mutation probability: 40% | cross probability: 90% | population size: 50 | time: 0.262629 | score: 509
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 50 | time: 0.129135 | score: 395
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 50 | time: 0.120899 | score: 425
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 0% | population size: 50 | time: 0.146577 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 0% | population size: 50 | time: 0.083784 | score: 504
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 50 | time: 0.156955 | score: 395
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 50 | time: 0.176104 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 10% | population size: 50 | time: 0.248326 | score: 509
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 10% | population size: 50 | time: 0.101278 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 50 | time: 0.197881 | score: 412
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 50 | time: 0.175325 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 20% | population size: 50 | time: 0.27373 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 20% | population size: 50 | time: 0.160627 | score: 412
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 50 | time: 0.524557 | score: 417
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 50 | time: 0.126145 | score: 417
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 30% | population size: 50 | time: 0.238387 | score: 412
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 30% | population size: 50 | time: 0.120066 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 50 | time: 0.449446 | score: 509
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 50 | time: 0.166349 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 40% | population size: 50 | time: 0.344925 | score: 465
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 40% | population size: 50 | time: 0.0997946 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 50 | time: 0.211692 | score: 463
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 50 | time: 0.13986 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 50% | population size: 50 | time: 0.345468 | score: 509
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 50% | population size: 50 | time: 0.133658 | score: 509
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 50 | time: 0.445754 | score: 412
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 50 | time: 0.237895 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 60% | population size: 50 | time: 0.5343 | score: 482
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 60% | population size: 50 | time: 0.170545 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 50 | time: 0.561816 | score: 412
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 50 | time: 0.325586 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 70% | population size: 50 | time: 0.475299 | score: 533
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 70% | population size: 50 | time: 0.184039 | score: 395
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 50 | time: 0.643394 | score: 432
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 50 | time: 0.165206 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 80% | population size: 50 | time: 0.541293 | score: 395
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 80% | population size: 50 | time: 0.171794 | score: 509
+cross type: one | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 50 | time: 0.541748 | score: 491
+cross type: one | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 50 | time: 0.15139 | score: 395
+cross type: two | select type: rul | mutation probability: 50% | cross probability: 90% | population size: 50 | time: 0.544249 | score: 465
+cross type: two | select type: turney | mutation probability: 50% | cross probability: 90% | population size: 50 | time: 0.271597 | score: 417
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 50 | time: 0.120132 | score: 533
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 50 | time: 0.128644 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 0% | population size: 50 | time: 0.126725 | score: 412
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 0% | population size: 50 | time: 0.113725 | score: 533
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 50 | time: 0.141179 | score: 417
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 50 | time: 0.0704747 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 10% | population size: 50 | time: 0.200735 | score: 412
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 10% | population size: 50 | time: 0.212803 | score: 417
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 50 | time: 0.118471 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 50 | time: 0.120183 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 20% | population size: 50 | time: 0.190925 | score: 395
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 20% | population size: 50 | time: 0.146555 | score: 504
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 50 | time: 0.381227 | score: 570
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 50 | time: 0.153186 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 30% | population size: 50 | time: 0.22627 | score: 425
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 30% | population size: 50 | time: 0.150345 | score: 412
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 50 | time: 0.275554 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 50 | time: 0.228484 | score: 509
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 40% | population size: 50 | time: 0.439933 | score: 482
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 40% | population size: 50 | time: 0.124086 | score: 395
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 50 | time: 0.329813 | score: 395
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 50 | time: 0.130453 | score: 412
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 50% | population size: 50 | time: 0.334742 | score: 425
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 50% | population size: 50 | time: 0.151269 | score: 412
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 50 | time: 0.410228 | score: 460
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 50 | time: 0.220027 | score: 482
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 60% | population size: 50 | time: 0.598128 | score: 482
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 60% | population size: 50 | time: 0.16109 | score: 417
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 50 | time: 0.46031 | score: 425
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 50 | time: 0.17672 | score: 533
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 70% | population size: 50 | time: 0.489364 | score: 417
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 70% | population size: 50 | time: 0.214148 | score: 412
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 50 | time: 0.530224 | score: 511
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 50 | time: 0.334677 | score: 412
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 80% | population size: 50 | time: 0.513357 | score: 429
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 80% | population size: 50 | time: 0.266003 | score: 412
+cross type: one | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 50 | time: 0.656423 | score: 480
+cross type: one | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 50 | time: 0.194639 | score: 395
+cross type: two | select type: rul | mutation probability: 60% | cross probability: 90% | population size: 50 | time: 0.505778 | score: 412
+cross type: two | select type: turney | mutation probability: 60% | cross probability: 90% | population size: 50 | time: 0.251617 | score: 412
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 50 | time: 0.118728 | score: 395
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 50 | time: 0.429234 | score: 509
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 0% | population size: 50 | time: 0.204179 | score: 425
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 0% | population size: 50 | time: 0.114803 | score: 425
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 50 | time: 0.458524 | score: 509
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 50 | time: 0.165363 | score: 533
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 10% | population size: 50 | time: 0.143462 | score: 460
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 10% | population size: 50 | time: 0.077377 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 50 | time: 0.18478 | score: 395
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 50 | time: 0.112669 | score: 533
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 20% | population size: 50 | time: 0.180235 | score: 412
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 20% | population size: 50 | time: 0.196239 | score: 412
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 50 | time: 0.185822 | score: 533
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 50 | time: 0.118042 | score: 395
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 30% | population size: 50 | time: 0.300918 | score: 509
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 30% | population size: 50 | time: 0.148721 | score: 412
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 50 | time: 0.339732 | score: 417
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 50 | time: 0.136538 | score: 417
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 40% | population size: 50 | time: 0.210474 | score: 395
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 40% | population size: 50 | time: 0.119298 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 50 | time: 0.364759 | score: 465
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 50 | time: 0.155597 | score: 533
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 50% | population size: 50 | time: 0.379994 | score: 417
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 50% | population size: 50 | time: 0.143368 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 50 | time: 0.26317 | score: 509
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 50 | time: 0.112486 | score: 417
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 60% | population size: 50 | time: 0.351993 | score: 412
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 60% | population size: 50 | time: 0.268829 | score: 425
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 50 | time: 0.323926 | score: 417
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 50 | time: 0.137721 | score: 412
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 70% | population size: 50 | time: 0.260852 | score: 465
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 70% | population size: 50 | time: 0.192293 | score: 395
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 50 | time: 0.48974 | score: 395
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 50 | time: 0.180744 | score: 417
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 80% | population size: 50 | time: 0.400389 | score: 480
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 80% | population size: 50 | time: 0.220266 | score: 548
+cross type: one | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 50 | time: 0.408701 | score: 495
+cross type: one | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 50 | time: 0.143943 | score: 417
+cross type: two | select type: rul | mutation probability: 70% | cross probability: 90% | population size: 50 | time: 0.418421 | score: 526
+cross type: two | select type: turney | mutation probability: 70% | cross probability: 90% | population size: 50 | time: 0.202086 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 50 | time: 0.113173 | score: 395
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 50 | time: 0.115048 | score: 417
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 0% | population size: 50 | time: 0.0831499 | score: 504
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 0% | population size: 50 | time: 0.107525 | score: 417
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 50 | time: 0.133777 | score: 509
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 50 | time: 0.0675994 | score: 412
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 10% | population size: 50 | time: 0.113186 | score: 570
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 10% | population size: 50 | time: 0.101596 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 50 | time: 0.202782 | score: 533
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 50 | time: 0.110036 | score: 425
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 20% | population size: 50 | time: 0.100315 | score: 395
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 20% | population size: 50 | time: 0.158989 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 50 | time: 0.196818 | score: 395
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 50 | time: 0.132438 | score: 533
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 30% | population size: 50 | time: 0.221018 | score: 395
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 30% | population size: 50 | time: 0.149674 | score: 526
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 50 | time: 0.211775 | score: 548
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 50 | time: 0.139929 | score: 495
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 40% | population size: 50 | time: 0.303562 | score: 570
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 40% | population size: 50 | time: 0.124187 | score: 509
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 50 | time: 0.350902 | score: 417
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 50 | time: 0.140334 | score: 395
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 50% | population size: 50 | time: 0.260463 | score: 509
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 50% | population size: 50 | time: 0.11181 | score: 417
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 50 | time: 0.205119 | score: 495
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 50 | time: 0.140834 | score: 495
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 60% | population size: 50 | time: 0.390803 | score: 526
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 60% | population size: 50 | time: 0.156906 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 50 | time: 0.376529 | score: 412
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 50 | time: 0.132619 | score: 395
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 70% | population size: 50 | time: 0.375734 | score: 548
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 70% | population size: 50 | time: 0.166029 | score: 509
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 50 | time: 0.393902 | score: 465
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 50 | time: 0.12916 | score: 533
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 80% | population size: 50 | time: 0.309989 | score: 548
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 80% | population size: 50 | time: 0.191399 | score: 395
+cross type: one | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 50 | time: 0.535731 | score: 465
+cross type: one | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 50 | time: 0.168189 | score: 429
+cross type: two | select type: rul | mutation probability: 80% | cross probability: 90% | population size: 50 | time: 0.421931 | score: 460
+cross type: two | select type: turney | mutation probability: 80% | cross probability: 90% | population size: 50 | time: 0.205794 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 50 | time: 0.101186 | score: 533
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 50 | time: 0.0977215 | score: 533
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 0% | population size: 50 | time: 0.0851488 | score: 533
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 0% | population size: 50 | time: 0.10901 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 10% | population size: 50 | time: 0.134149 | score: 480
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 10% | population size: 50 | time: 0.0972287 | score: 412
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 10% | population size: 50 | time: 0.137409 | score: 417
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 10% | population size: 50 | time: 0.162996 | score: 425
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 20% | population size: 50 | time: 0.211983 | score: 425
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 20% | population size: 50 | time: 0.091408 | score: 429
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 20% | population size: 50 | time: 0.179114 | score: 395
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 20% | population size: 50 | time: 0.128415 | score: 425
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 30% | population size: 50 | time: 0.24181 | score: 395
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 30% | population size: 50 | time: 0.160427 | score: 412
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 30% | population size: 50 | time: 0.240905 | score: 417
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 30% | population size: 50 | time: 0.0886794 | score: 533
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 40% | population size: 50 | time: 0.172872 | score: 425
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 40% | population size: 50 | time: 0.102642 | score: 417
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 40% | population size: 50 | time: 0.222241 | score: 511
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 40% | population size: 50 | time: 0.149892 | score: 533
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 50% | population size: 50 | time: 0.390994 | score: 504
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 50% | population size: 50 | time: 0.219429 | score: 533
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 50% | population size: 50 | time: 0.369058 | score: 425
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 50% | population size: 50 | time: 0.142201 | score: 417
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 60% | population size: 50 | time: 0.432484 | score: 570
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 60% | population size: 50 | time: 0.454044 | score: 425
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 60% | population size: 50 | time: 0.418182 | score: 491
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 60% | population size: 50 | time: 0.148692 | score: 480
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 70% | population size: 50 | time: 0.573236 | score: 533
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 70% | population size: 50 | time: 0.272073 | score: 526
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 70% | population size: 50 | time: 0.639674 | score: 395
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 70% | population size: 50 | time: 0.363869 | score: 395
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 80% | population size: 50 | time: 0.901794 | score: 480
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 80% | population size: 50 | time: 0.230773 | score: 482
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 80% | population size: 50 | time: 0.574506 | score: 412
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 80% | population size: 50 | time: 0.373967 | score: 533
+cross type: one | select type: rul | mutation probability: 90% | cross probability: 90% | population size: 50 | time: 0.860165 | score: 548
+cross type: one | select type: turney | mutation probability: 90% | cross probability: 90% | population size: 50 | time: 0.30697 | score: 526
+cross type: two | select type: rul | mutation probability: 90% | cross probability: 90% | population size: 50 | time: 0.553242 | score: 412
+cross type: two | select type: turney | mutation probability: 90% | cross probability: 90% | population size: 50 | time: 0.242863 | score: 509
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 75 | time: 0.209811 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 75 | time: 0.246183 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 0% | population size: 75 | time: 0.21411 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 0% | population size: 75 | time: 0.285976 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 75 | time: 0.584548 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 75 | time: 0.373891 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 10% | population size: 75 | time: 0.335561 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 10% | population size: 75 | time: 0.178523 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 75 | time: 0.286396 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 75 | time: 0.34906 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 20% | population size: 75 | time: 0.688451 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 20% | population size: 75 | time: 0.287785 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 75 | time: 0.929577 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 75 | time: 0.378138 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 30% | population size: 75 | time: 1.00228 | score: 463
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 30% | population size: 75 | time: 0.245746 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 75 | time: 0.540901 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 75 | time: 0.308627 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 40% | population size: 75 | time: 0.497325 | score: 463
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 40% | population size: 75 | time: 0.199363 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 75 | time: 0.605044 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 75 | time: 0.223528 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 50% | population size: 75 | time: 0.704543 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 50% | population size: 75 | time: 0.243735 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 75 | time: 0.546683 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 75 | time: 0.331687 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 60% | population size: 75 | time: 0.710401 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 60% | population size: 75 | time: 0.29193 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 75 | time: 0.886308 | score: 395
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 75 | time: 0.313121 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 70% | population size: 75 | time: 0.852888 | score: 417
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 70% | population size: 75 | time: 0.225537 | score: 417
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 75 | time: 0.839428 | score: 417
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 75 | time: 0.192452 | score: 395
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 80% | population size: 75 | time: 1.92047 | score: 395
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 80% | population size: 75 | time: 0.875061 | score: 395
+cross type: one | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 75 | time: 2.82263 | score: 463
+cross type: one | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 75 | time: 0.71453 | score: 412
+cross type: two | select type: rul | mutation probability: 0% | cross probability: 90% | population size: 75 | time: 1.84247 | score: 419
+cross type: two | select type: turney | mutation probability: 0% | cross probability: 90% | population size: 75 | time: 0.759274 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 75 | time: 0.587271 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 75 | time: 0.321263 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 0% | population size: 75 | time: 0.358781 | score: 412
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 0% | population size: 75 | time: 0.248345 | score: 417
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 75 | time: 0.634761 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 75 | time: 0.189775 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 10% | population size: 75 | time: 0.341145 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 10% | population size: 75 | time: 0.22249 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 75 | time: 0.503486 | score: 526
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 75 | time: 0.242872 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 20% | population size: 75 | time: 0.355324 | score: 509
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 20% | population size: 75 | time: 0.263677 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 75 | time: 0.600333 | score: 533
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 75 | time: 0.42738 | score: 425
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 30% | population size: 75 | time: 0.503273 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 30% | population size: 75 | time: 0.253386 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 75 | time: 0.815501 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 75 | time: 0.236233 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 40% | population size: 75 | time: 0.745425 | score: 570
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 40% | population size: 75 | time: 0.269927 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 75 | time: 0.754372 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 75 | time: 0.202867 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 50% | population size: 75 | time: 1.20182 | score: 395
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 50% | population size: 75 | time: 0.231354 | score: 504
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 75 | time: 0.995846 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 75 | time: 0.239806 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 60% | population size: 75 | time: 0.638327 | score: 491
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 60% | population size: 75 | time: 0.323865 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 75 | time: 0.714934 | score: 570
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 75 | time: 0.282085 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 70% | population size: 75 | time: 1.10604 | score: 491
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 70% | population size: 75 | time: 0.256294 | score: 412
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 75 | time: 1.09068 | score: 412
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 75 | time: 0.297466 | score: 395
+cross type: two | select type: rul | mutation probability: 10% | cross probability: 80% | population size: 75 | time: 0.96813 | score: 509
+cross type: two | select type: turney | mutation probability: 10% | cross probability: 80% | population size: 75 | time: 0.407583 | score: 395
+cross type: one | select type: rul | mutation probability: 10% | cross probability: 90% | population size: 75 | time: 1.68218 | score: 395
+cross type: one | select type: turney | mutation probability: 10% | cross probability: 90% | population size: 75 | time: 0.27827 | score: 395
